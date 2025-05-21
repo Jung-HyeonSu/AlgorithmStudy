@@ -27,7 +27,7 @@ public class Main {
         bfs(0,0);
         System.out.println(map[n-1][m-1]);
     }
-
+    // 너비 우선 탐색
     public static void bfs(int x, int y){
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[]{x, y});
