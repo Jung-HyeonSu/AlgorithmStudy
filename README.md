@@ -1,7 +1,7 @@
-# Baekjoon_study
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 공부하며 알게 된 내용
 
 
-Collections.reverseOrder()
- 
-Collections.reverseOrder() 메소드를 이용하면 역순으로 정렬된 배열을 얻을 수 있다.
+
+## Collections.reverseOrder()
+ <hr>
+Collections.reverseOrder()는 역순으로 정렬하기 위한 Comparator를 생성하는 정적 메서드이다. 이 Comparator를 사용하면 기본적으로 오름차순으로 정렬되는 리스트를 내림차순으로 정렬할 수 있다. result 리스트를 역순으로 정렬 한다.
