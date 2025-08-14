@@ -8,3 +8,4 @@ Collections.reverseOrder()는 역순으로 정렬하기 위한 Comparator를 생
 ## 다시 풀어볼 문제
 ### 백트래킹
 - N과 M (1) ~ (12) (https://www.acmicpc.net/problem/15649)
+- 연구소 14502 (https://www.acmicpc.net/problem/14502)
